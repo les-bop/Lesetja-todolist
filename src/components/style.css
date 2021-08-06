@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  
+  }
+  body{
+  
+  
+  
+  }
+  .firstinGrid{
+    position: relative;
+
+
+  margin:0px;
+  border-radius:0px;
+  
+  ;
+  
+  }
+  .firstpaper{
+  
+    border-radius:0px;
+  }
+  .mainGrid {
+  
+    border-radius:0px;
+  
+  }
+  .paperone{
+    background-image:url("https://images.pexels.com/photos/2531237/pexels-photo-2531237.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  
+
+  }
